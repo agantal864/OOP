@@ -1,6 +1,5 @@
 /*
 Agantal, Abdul Azis M.
-Bachelor of Science in Computer Science
 University of the Philippines
 
 This program is a student information system that takes the data of a student and saves them in a linked list using classes. 
